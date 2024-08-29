@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usamaabbasi01
+- 👋 Hi, I’m Usama.
 - 👀 I’m interested in Django , Flask, Data Science and React.js
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Django Projects
